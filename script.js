@@ -8,7 +8,7 @@ Espero que esta carta encantada te saque una sonrisa, como tú me las sacas a m�
 
 Con todo mi corazón encantado,
 
-🪄 Tu mago enamorado 💖`;
+🪄 Tu mago enamorado 💖  TE AMO MUCHO KAREN, MI NIÑA BONITA`;
 
 let index = 0;
 const mensajeElemento = document.getElementById("mensaje");
